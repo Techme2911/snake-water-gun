@@ -10,14 +10,14 @@ Cheers !
 
 Single player can play this game with the computer.<br>
 __*And the Rules are-*__
-* You have to type __"S"__ for snake __"W"__ for water and __"G"__ for gun.
+* You have to type __"Snake"__ for snake __"Water"__ for water and __"Gun"__ for gun.
 * You can play ten matches and last you get wins that you get out of 10.
 
 ## Here is the opponent contributed
 
 ### @Author:
 
-*Name*  : NIKHIL RAJ PANDEY<br>
+*Name*  : Master NIKHIL RAJ PANDEY<br>
 *class* : VIII<br>
 *Age*   : 12 years<br>
 
